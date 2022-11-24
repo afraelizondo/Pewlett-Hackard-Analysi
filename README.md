@@ -37,4 +37,5 @@ The best option to perform the results is using the existing database to create 
 <img width="773" alt="Screen Shot 2022-11-24 at 7 58 36 AM" src="https://user-images.githubusercontent.com/113856917/203802248-292d184e-6b8f-4754-9d8b-98852967ac94.png">
 
 Lastly, we would add a table that displays how many employees of each area could be available in the mentorship program.
+
 <img width="246" alt="Screen Shot 2022-11-24 at 8 01 49 AM" src="https://user-images.githubusercontent.com/113856917/203803074-b0227e7d-1b7a-4715-b4bd-24aaa1a8bd1e.png">
