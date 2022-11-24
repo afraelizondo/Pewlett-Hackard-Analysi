@@ -24,7 +24,7 @@ The best option to perform the results is using the existing database to create 
 <img width="337" alt="Screen Shot 2022-11-23 at 4 11 38 PM" src="https://user-images.githubusercontent.com/113856917/203654729-4b4d08bc-bbd8-46b2-b7e7-ee2520d85e05.png">
  3. The next table provides the results divided by title; being "Senior Enginner", "Senior Staff" and "Engineer" at the top of the count, with many positions that need to be filled. 
  <img width="174" alt="Screen Shot 2022-11-23 at 4 21 36 PM" src="https://user-images.githubusercontent.com/113856917/203655841-1cccd264-0872-4e20-ad1f-8805fa1373ee.png">
-4. Finally, we added another table with the employees elegible for the Mentorship who were born between January 1, 1965 and December 31, 1965. The output showed 1549 workers that apply in this program.
+4. Finally, we added another table with the employees elegible for the Mentorship who were born between January 1, 1965 and December 31, 1965. The output showed 1,549 workers that apply in this program.
 <img width="562" alt="Screen Shot 2022-11-23 at 4 24 59 PM" src="https://user-images.githubusercontent.com/113856917/203656295-5d0384cf-cebc-481d-9c65-4938798519ae.png">
 
 
