@@ -3,7 +3,7 @@
 
 ## Overview 
 
-This analysis was executed for Pewlett Hackrad, a large company with long history and many employees throughout the years. 
+This analysis was executed for Pewlett Hackard, a large company with long history and many employees throughout the years. 
 
 Due to the huge number of people working for them, and the fact that several of them are getting retired soon, they need to have answers to the questions:
 - Who of the employees appply to the retirement package?
