@@ -16,8 +16,6 @@ The task will work with the following criteria over the data:
 
 The best option to perform the results is using the existing database to create  tables and present the required information, and because of this, we decided to export the CSV (Comma Separated Values) archives from the company to build the new database with SQL (Structured Query Language).
 
-<img width="439" alt="Captura de pantalla 2024-07-02 a la(s) 1 32 03 p m" src="https://github.com/afraelizondo/Pewlett-Hackard-Analysis/assets/113856917/207df15c-c592-4491-9e24-72e5bdd634d5">
-
 
 ## Results
 
