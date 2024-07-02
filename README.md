@@ -16,6 +16,8 @@ The task will work with the following criteria over the data:
 
 The best option to perform the results is using the existing database to create  tables and present the required information, and because of this, we decided to export the CSV (Comma Separated Values) archives from the company to build the new database with SQL (Structured Query Language).
 
+<img width="439" alt="Captura de pantalla 2024-07-02 a la(s) 1 32 03 p m" src="https://github.com/afraelizondo/Pewlett-Hackard-Analysis/assets/113856917/207df15c-c592-4491-9e24-72e5bdd634d5">
+
 
 ## Results
 
@@ -26,6 +28,7 @@ The best option to perform the results is using the existing database to create 
  <img width="174" alt="Screen Shot 2022-11-23 at 4 21 36 PM" src="https://user-images.githubusercontent.com/113856917/203655841-1cccd264-0872-4e20-ad1f-8805fa1373ee.png">
 4. Finally, we added another table with the employees elegible for the Mentorship who were born between January 1, 1965 and December 31, 1965. The output showed 1,549 workers that apply in this program.
 <img width="562" alt="Screen Shot 2022-11-23 at 4 24 59 PM" src="https://user-images.githubusercontent.com/113856917/203656295-5d0384cf-cebc-481d-9c65-4938798519ae.png">
+
 
 
 ## Summary and aditional analysis
